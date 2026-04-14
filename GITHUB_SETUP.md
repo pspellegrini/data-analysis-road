@@ -11,6 +11,17 @@
 data-analysis-road
 ```
 
+## Sobre o nome das pastas
+
+A pasta local e o repositório GitHub têm nomes diferentes — isso é intencional:
+
+| | Nome | Motivo |
+|---|---|---|
+| Pasta local | `learning-env/` | Nome do ambiente de trabalho pessoal |
+| Repositório GitHub | `data-analysis-road/` | Nome descritivo para portfólio público |
+
+O Git conecta os dois pelo remote URL, não pelo nome da pasta. Quem clonar o repositório verá a pasta `data-analysis-road/` — isso é esperado e correto. **Não renomeie a pasta local.**
+
 ## Description (About)
 
 ```
