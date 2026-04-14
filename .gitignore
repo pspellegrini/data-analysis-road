@@ -24,3 +24,6 @@ venv/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Configuração local — não publicar no GitHub
+GITHUB_SETUP.md

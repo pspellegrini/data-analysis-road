@@ -25,9 +25,9 @@ Porque aprendi que ver a jornada de outra pessoa — com erros, dúvidas e progr
 
 | Etapa | Tópico | Status |
 |---|---|---|
-| 1.1 | Lógica de programação (algoritmos, variáveis, fluxo de controle) | ✅ Concluído |
-| 1.2 | Python básico (sintaxe, condicionais, loops, funções) | ✅ Concluído |
-| 1.3 | Python intermediário (listas, dicionários, tuplas, conjuntos) | 🔄 Em progresso |
+| 1.1 | Lógica de programação (algoritmos, variáveis, fluxo de controle) | ⏳ Pendente |
+| 1.2 | Python básico (sintaxe, condicionais, loops, funções) | ⏳ Pendente |
+| 1.3 | Python intermediário (listas, dicionários, tuplas, conjuntos) | ⏳ Pendente |
 | 1.4 | Python avançado (funções avançadas, módulos, POO) | ⏳ Pendente |
 
 #### Fase 2 — Banco de Dados
