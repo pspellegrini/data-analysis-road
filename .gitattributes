@@ -1,0 +1,6 @@
+# Normaliza line endings para LF no repositório
+* text=auto eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf

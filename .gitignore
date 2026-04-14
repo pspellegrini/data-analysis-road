@@ -1,0 +1,26 @@
+# Claude Code — gerado automaticamente, específico por máquina
+.claude/settings.local.json
+.claude/handoffs/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos (nunca versionar)
+*.csv
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
