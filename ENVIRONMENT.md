@@ -350,10 +350,15 @@ learning-env/
 │   └── settings.json            # Spell checker pt-BR + EN
 └── notebooks/                   # Notebooks de estudo por fase
     └── phase-01-fundamentals/
-        └── 01-programming-logic/
-            ├── 01_algorithms.ipynb
-            ├── 02_variables_and_types.ipynb
-            └── 03_control_flow.ipynb
+        ├── 01-programming-logic/
+        │   ├── 01_algorithms.ipynb
+        │   ├── 02_variables_and_types.ipynb
+        │   └── 03_control_flow.ipynb
+        └── 02-python-basics/
+            ├── 01_syntax.ipynb
+            ├── 02_conditionals.ipynb
+            ├── 03_loops.ipynb
+            └── 04_functions.ipynb
 ```
 
 ---
@@ -454,7 +459,7 @@ Projetos de referência adicionais localizados em `OneDrive\Documentos\Data Anal
 3. ✅ ~~Configurar MCPs pendentes na máquina pessoal~~ — todos os MCPs ativos
 4. ✅ ~~Verificar MCPs ativos~~ — concluído
 5. **Inicializar Git** — `.gitignore` ✅ já criado. Pendente: `git init`, criar repo no GitHub e primeiro commit (Camada 5)
-6. **Continuar Fase 1** — 3 notebooks concluídos (`01_algorithms`, `02_variables_and_types`, `03_control_flow`). Próximo: Python básico — Fase 1.2 (`sintaxe`, `condicionais`, `loops`, `funções`)
+6. **Continuar Fase 1** — Python básico (Fase 1.2) criado com 4 notebooks. Próximo: Python intermediário — Fase 1.3 (`listas`, `dicionários`, `tuplas`, `conjuntos`)
 
 ---
 
